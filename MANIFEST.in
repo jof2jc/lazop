@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include lazop *.css
+recursive-include lazop *.csv
+recursive-include lazop *.html
+recursive-include lazop *.ico
+recursive-include lazop *.js
+recursive-include lazop *.json
+recursive-include lazop *.md
+recursive-include lazop *.png
+recursive-include lazop *.py
+recursive-include lazop *.svg
+recursive-include lazop *.txt
+recursive-exclude lazop *.pyc
