@@ -1,2 +1,1 @@
 Lazada SDK
-lazop
