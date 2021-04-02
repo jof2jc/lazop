@@ -5,7 +5,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='lazop-sdk-python',
+    name='lazop',
     version='1.1.0',
     author='top',
     author_email='xuteng.xt@alibaba-inc.com',
